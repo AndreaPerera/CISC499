@@ -1,4 +1,7 @@
-CONTROL
-Pipfile.lock
 .idea/
 .ipynb_checkpoints/
+.DS_STORE
+Pipfile.lock
+
+#Prevent medical data from being uploaded to git
+CONTROL/
