@@ -3,5 +3,6 @@
 .DS_STORE
 Pipfile.lock
 
-#Prevent medical data from being uploaded to git
+# image data
 CONTROL/
+DISCRETE/
