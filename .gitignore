@@ -5,6 +5,7 @@ Pipfile.lock
 .python-version
 
 # image data
+data_subset/
 CONTROL/
 DISCRETE/
 OUTPUT/
