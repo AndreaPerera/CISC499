@@ -1,8 +1,10 @@
 ## CISC 499 Research Project 
-###  Multispectral Analysis to Detect Focal Abnormalities in Epilepsy
+###  Machine Learning for Detecting Lesions in Focal Epilepsy
 
 Step 1: Z-Scoring
 
-Step 2: Training ML
+Step 2: Feature Extraction
 
-Step 3: Assessing Accuracy
+Step 3: Training ML
+
+Step 4: Assessing Accuracy
