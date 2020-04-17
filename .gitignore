@@ -9,3 +9,8 @@ data_subset/
 CONTROL/
 DISCRETE/
 OUTPUT/
+Segmentation-label*
+train-data.csv
+test-data.csv
+rbf-clf.joblib
+p-rbf-clf.joblib
